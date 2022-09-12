@@ -1,1 +1,5 @@
 /* CSS Style Sheet */
+pre {
+  border: gray;
+  border-width: 2px;
+}
